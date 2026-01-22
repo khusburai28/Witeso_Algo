@@ -168,8 +168,8 @@ These integrations ensure Witeso goes beyond static content — providing mentor
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/PriyadarshiIndia/Witeso
-cd witeso
+git clone https://github.com/khusburai28/Witeso_Algo
+cd Witeso_Algo
 ```
 ### Backend Setup
 ```bash

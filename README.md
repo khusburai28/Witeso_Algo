@@ -2,13 +2,13 @@
 
 Witeso is an all-in-one upskilling platform designed to empower users by providing a comprehensive suite of tools and learning modules to master technical and non-technical skills. Whether you're preparing for technical interviews, improving your coding skills, or honing your web development abilities, Witeso offers everything you need in one centralized platform.
 
-🔗 *Visit this url to interact with our website :* [witeso.com](https://witeso.com)
+🔗 *Visit this url to interact with our website :* [witeso.com]([https://witeso.com](http://algo-arena-mu.vercel.app/))
 
 ---
 ## 🎥 Demonstration of the Project
 
 Watch a full walkthrough of the Witeso platform on YouTube:  
-[![Witeso Project Demo](https://img.youtube.com/vi/yEDYBYsG_9c/0.jpg)](https://www.youtube.com/watch?v=yEDYBYsG_9c)
+[![Witeso Project Demo](https://img.youtube.com/vi/yEDYBYsG_9c/0.jpg)]([https://www.youtube.com/watch?v=yEDYBYsG_9c](https://youtu.be/Vq4oj8cpi0w))
 
 ---
 
